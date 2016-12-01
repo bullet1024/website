@@ -1,6 +1,7 @@
 diff a/index.php b/index.php	(rejected hunks)
-@@ -0,0 +1,3 @@
-+<?php
-+echo"its a test";
-+?>
+@@ -1,3 +1,4 @@
+ <?php
+ echo"its a test";
++echo"hell life";
+ ?>
 \ No newline at end of file
